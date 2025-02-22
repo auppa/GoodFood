@@ -21,10 +21,10 @@ Rezept für 4 Personen
 
 ### Für die Vanillesauce
 
-700 ml Hafermilch 
-1/2 gestricher TL Vanille
-2 EL Zucker, leicht gehäuft
-2 EL Speisestärke (Maisstärke), leicht gehäuft
+    700 ml Hafermilch 
+    1/2 gestricher TL Vanille
+    2 EL Zucker, leicht gehäuft
+    2 EL Speisestärke (Maisstärke), leicht gehäuft
 
 
 ## Zubereitung 
