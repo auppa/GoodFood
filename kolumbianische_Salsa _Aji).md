@@ -8,5 +8,7 @@
     2 Limetten (Saft)
     1/2-1 TL Salz 
     Pfeffer
+    1 Avocado (optional)
+    Tabasco (optional)
 
 Kann zum Beispiel zu Empanadas, in der Pita oder in Wraps gegessen werden.
